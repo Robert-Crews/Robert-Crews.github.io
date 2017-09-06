@@ -36,8 +36,6 @@ Gemfile
 Gemfile.lock
 _layouts/
 _sass/
-another-page.md
 assets/
 jekyll-theme-tactile.gemspec
 script/
-thumbnail.png
